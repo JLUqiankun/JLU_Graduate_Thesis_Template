@@ -1,1 +1,2 @@
 # JLU_Graduate_Thesis_Template
+Normal文件是吉林大学研究生毕业论文模板，通过样式直接排版。
